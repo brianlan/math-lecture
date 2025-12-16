@@ -1,0 +1,1 @@
+Use $..$ and $$..$$ to quote math equations instead of \(..\) and \[..\].
